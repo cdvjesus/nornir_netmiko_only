@@ -1,0 +1,16 @@
+---
+acc-sw1:
+    hostname: 10.10.10.11
+    data:
+        role: acc-sw
+        mdf: false
+acc-sw2:
+    hostname: 10.10.10.12
+    data:
+        mdf: true
+# acc-sw3:
+#     hostname: 10.10.10.13
+# acc-sw4:
+#     hostname: 10.10.10.14
+# acc-sw5:
+#     hostname: 10.10.10.15
